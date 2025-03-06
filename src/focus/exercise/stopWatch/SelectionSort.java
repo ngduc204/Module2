@@ -1,4 +1,4 @@
-package focus.exercise;
+package focus.exercise.stopWatch;
 
 import java.util.Random;
 

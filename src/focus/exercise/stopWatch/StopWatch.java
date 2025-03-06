@@ -1,4 +1,4 @@
-package focus.exercise;
+package focus.exercise.stopWatch;
 
 public class StopWatch {
     private long startTime;
