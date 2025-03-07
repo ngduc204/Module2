@@ -1,4 +1,4 @@
-package focus.practice;
+package focus.practice.shape;
 
 public class Shape {
     private String color = "green";
